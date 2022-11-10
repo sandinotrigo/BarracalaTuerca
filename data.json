@@ -1,0 +1,58 @@
+[
+    {
+        "id":101,
+        "name": "Amoladora Bosch",
+        "price": "10000",
+        "description": "Amoladora Bosch, garantia 2 meses.",
+        "image": "img/amoladora1.jpg" 
+    },
+    {
+        "id":102,
+        "name": "Amoladora Ineco",
+        "price": "12500",
+        "description": "Amoladora Ineco.",
+        "image": "img/amoladora2.jpg"
+    },
+    {
+        "id":103,
+        "name": "Amoladora Black Decker",
+        "price": "15000",
+        "description": "Amoladora Black Decker",
+        "image": "img/amoladora3.jpg"
+    },
+    {
+        "id":104,
+        "name": "Motosierra Hyundai",
+        "price": "25000",
+        "description": "Motosierra Hyundai",
+        "image": "img/motosierra1.jpg"
+    },
+    {
+        "id":105,
+        "name": "Sierra electrica SKIL",
+        "price": "27000",
+        "description": "Sierra electrica SKIL",
+        "image": "img/sierra.jpg"
+    },
+    {
+        "id":106,
+        "name": "Taladro CAT",
+        "price": "15200",
+        "description": "Taladro CAT.",
+        "image": "img/taladro1.jpg"
+    },
+    {
+        "id":107,
+        "name": "Taladro TotalEx",
+        "price": "10000",
+        "description": "Taladro TotalEx.",
+        "image": "img/taladro2.jpg"
+    },
+    {
+        "id":108,
+        "name": "Taladro Xion",
+        "price": "12000",
+        "description": "Taladro Xion",
+        "image": "img/taladro3.jpg"
+    }
+ ]
